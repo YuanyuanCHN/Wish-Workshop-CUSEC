@@ -3,4 +3,4 @@ Wish-Workshop-Intro to Data Science &amp; PM with SQL - A Real World Case Study 
 
 Please open online SQL IDE https://www.jdoodle.com/execute-sql-online/ 
 
-Run the Create_Table.sql content before runing your own code.
+Run the Create_Tables.sql content before runing your own code.
