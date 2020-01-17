@@ -1,4 +1,4 @@
-create table sales(transaction_id int, Date date,user_id int, merchant_id int, product_id char, quantity int, price double, destination_cntry char);
+create table sales(transaction_id int, date date,user_id int, merchant_id int, product_id char, quantity int, price double, destination_cntry char);
 insert into sales 
 values
 (1234567890000,'2019-12-31',987654321000,192837465000,'abcdefghijklmn000',1,31.5,'US'),
